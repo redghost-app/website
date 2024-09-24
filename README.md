@@ -13,11 +13,16 @@ RedGhost.app uses no vite, no webpack, etc. It's purposely kept simple.
 - Bootstrap 5 (Halfmoon - https://www.gethalfmoon.com/)
 - Htmx (https://htmx.org/)
 - Alphine.js (https://alpinejs.dev/)
-- Signlr
+- Signalr
 - .NET 8 (MVC + Razor Pages)
 - MariaDB
 - Redis
 
+Also involved:
+
+- Lots of monster energy drinks
+- Some alcohol
+
 ## History
 
-The social network design is inspired by a previous custom social network design that reached 500k members (2010-2014). Features are based on the design and communities can pick which features to enable for their community.
+The social network design is inspired by my previous custom social network design that reached 500k members (2010-2014). Features are based on the design and communities can pick which features to enable for their community.
