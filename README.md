@@ -10,11 +10,11 @@ Eventually it'll be open to others creating and running their own communities. C
 
 RedGhost.app uses no vite, no webpack, etc. It's purposely kept simple.
 
-- Bootstrap 5 (Halfmoon - https://www.gethalfmoon.com/)
+- Bootstrap 5 (Halfmoon variety - https://www.gethalfmoon.com/)
 - Htmx (https://htmx.org/)
-- Alphine.js (https://alpinejs.dev/)
-- Signalr
-- .NET 8 (MVC + Razor Pages)
+- Alpine.js (https://alpinejs.dev/)
+- Signalr (for chat and notifications)
+- .NET 8 (MVC + Razor Pages -- Blazor still has some major breaking flaws -- React, no need)
 - MariaDB
 - Redis
 
